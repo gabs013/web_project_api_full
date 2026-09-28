@@ -15,5 +15,5 @@ Aplicación full stack para registrar usuarios, editar el perfil y compartir tar
 
 ## Dominios
 
-- Sitio web: https://svansen.se
-- API: https://api.svansen.se
+- Sitio web: https://around-project.svansen.se
+- API: https://api.around-project.svansen.se
